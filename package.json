@@ -1,0 +1,26 @@
+{
+  "name": "cs-currency-converter",
+  "version": "1.0.0",
+  "description": "An pkg to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraj00789/cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Viraj Koradia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/viraj00789/cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/viraj00789/cs-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}

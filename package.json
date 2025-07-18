@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/viraj00789/cs-currency-converter#readme",
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1"
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^17.2.0"
   }
 }
